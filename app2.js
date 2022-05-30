@@ -1,0 +1,1 @@
+console.log("¡articulos nuevos a la venta");
